@@ -7,7 +7,7 @@
     "lodash.foreach": "^3.0.3",
     "lodash.some": "^3.2.3",
     "lodash.delay": "^3.1.0",
-    "lodash.isNumber": "^3.0.1"
+    "lodash.isnumber": "^3.0.1"
   },
   "author": ["Matthieu Faule"]
 }
