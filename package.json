@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "A basic javascript Http Client",
   "main": "http.client.js",
-  "peerDependencies": {
+  "dependencies": {
     "xhr": "^2.0.5",
     "lodash.foreach": "^3.0.3",
     "lodash.some": "^3.2.3",
