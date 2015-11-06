@@ -14,10 +14,10 @@
  *          Note that only retry only applies on GET.
  */
 var _ = {
-        forEach: require('lodash/collection/forEach'),
-        some: require('lodash/collection/some'),
-        delay: require('lodash/function/delay'),
-        isNumber: require('lodash/lang/isNumber')
+        forEach: require('lodash.foreach'),
+        some: require('lodash.some'),
+        delay: require('lodash.delay'),
+        isNumber: require('lodash.isnumber')
     },
     DEFAULT_CONFIG = {
         retry: {
